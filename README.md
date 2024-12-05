@@ -8,6 +8,7 @@ I was the lead contract developer for an iOS app designed to enhance English wor
 
 ## Design and Architecture
 ●	Dependency injection (custom DI container) to enhance modularity and testing capabilities across services, repositories, and app state management.
+
 ●	Scalable and maintainable architecture with repository and service layers, utilizing protocol abstractions. Implemented concrete implementations separated through extensions for better code organization.
 ●	Comprehensive offline data persistence using CoreData with seven interrelated entities managing complex relationships and attributes.
 ●	Custom caching and synchronization logic improving speed and efficiency.
