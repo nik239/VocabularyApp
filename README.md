@@ -1,6 +1,7 @@
 # VocabulistApp
 The best personal vocabulary iOS app
-[Check out the app! (Currently in beta testing)](www.vocabulistapp.com)
+---
+[Check out the app!](www.vocabulistapp.com)(Currently in beta testing).
 **NDA**: Due to my NDA with the client, only limited information about this project can be shared. But reference check (email, audio and video calls) with client is available upon request.
 
 ## Project Overview
