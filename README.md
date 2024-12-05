@@ -1,11 +1,11 @@
 # VocabulistApp
 The best personal vocabulary iOS app
----
-[Check out the app!](www.vocabulistapp.com)(Currently in beta testing).
-**NDA**: Due to my NDA with the client, only limited information about this project can be shared. But reference check (email, audio and video calls) with client is available upon request.
 
 ## Project Overview
 I was the lead contract developer for an iOS app designed to enhance English word/vocabulary skills. The app enables users to discover new words through a daily Word of the Day feature, add words to their favorites collection, and learn through daily and practice word games that uses spaced repetition systems. Users can also access and replay historical daily challenges and word collections through an archives system.
+
+* [Check out the app!](www.vocabulistapp.com)(Currently in beta testing).
+* **NDA**: Due to my NDA with the client, only limited information about this project can be shared. But reference check (email, audio and video calls) with client is available upon request.
 
 ## Design and Architecture
 * Dependency injection (custom DI container) to enhance modularity and testing capabilities across services, repositories, and app state management.
