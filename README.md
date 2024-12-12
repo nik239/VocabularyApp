@@ -6,11 +6,11 @@ I was the lead contract developer for an iOS app designed to enhance English wor
 
 * **NDA**: Due to my NDA with the client, only limited information about this project can be shared. But reference check (email, audio and video calls) with client is available upon request.
 
-![Screenshot 1](Screenshot\1.png)
-![Screenshot 2](Screenshot\2.png)
-![Screenshot 3](Screenshot\3.png)
-![Screenshot 4](Screenshot\4.png)
-![Screenshot 5](Screenshot\5.png)
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
+![Screenshot 3](Screenshot3.png)
+![Screenshot 4](Screenshot4.png)
+![Screenshot 5](Screenshot5.png)
 
 ## Design and Architecture
 * Dependency injection (custom DI container) to enhance modularity and testing capabilities across services, repositories, and app state management.
