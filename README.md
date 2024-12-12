@@ -1,8 +1,9 @@
 # VocabularyApp
-The best personal vocabulary iOS app
+The best personal vocabulary iOS app. 
+Currently in beta testing, coming to the App Store in early 2025!
 
 ## Project Overview
-I was the lead contract developer for an iOS app designed to enhance English word/vocabulary skills. The app enables users to discover new words through a daily Word of the Day feature, add words to their favorites collection, and learn through daily and practice word games that uses spaced repetition systems. Users can also access and replay historical daily challenges and word collections through an archives system.
+I was the lead contract developer for an iOS app designed to enhance English word/vocabulary skills. The app enables users to discover new words through a daily Word of the Day feature, add words to their favorites collection, and learn through daily and practice word games that use spaced repetition systems. Users can also access and replay historical daily challenges and word collections through an archives system.
 
 * **NDA**: Due to my NDA with the client, only limited information about this project can be shared. But reference check (email, audio and video calls) with client is available upon request.
 
@@ -28,7 +29,7 @@ I was the lead contract developer for an iOS app designed to enhance English wor
 * Localized notifications system.
 * Subscription management with StoreKit API.
 * SharePlay integration for content sharing.
-* Advanced logging system using OSLog framework, with capability to retrieve, filter, and format logs into text files for bug reporting.
+* Advanced logging system using OSLog framework, with the capability to retrieve, filter, and format logs into text files for bug reporting.
 * Comprehensive preview system using stub data and preview containers, allowing rapid UI iteration and testing across all views.
 * Sophisticated paywall implementation using custom feature presentation.
 * Integration with system pasteboard for enhanced user experience.
